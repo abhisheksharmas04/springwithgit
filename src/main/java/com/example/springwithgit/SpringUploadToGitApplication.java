@@ -11,6 +11,8 @@ public class SpringUploadToGitApplication {
         System.out.println("This Spring Project is uploaded using idea IDE");
 
         System.out.println("This if for demo purpose");
+
+        System.out.println("This is for test i m printing message");
     }
 
 }
